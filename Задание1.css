@@ -1,0 +1,13 @@
+body {
+    font-size: 24px;
+}
+p.bold {
+    font-weight:bold;
+}
+p.bold-italic {
+    font-style:bold;
+    font-weight:italic;
+}
+p.italic {
+    font-style:italic;
+}
